@@ -1,0 +1,5 @@
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\StringDictionariesLambdaLINQ\CountLettersInString\bin\Debug\CountLettersInString.exe.config
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\StringDictionariesLambdaLINQ\CountLettersInString\bin\Debug\CountLettersInString.exe
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\StringDictionariesLambdaLINQ\CountLettersInString\bin\Debug\CountLettersInString.pdb
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\StringDictionariesLambdaLINQ\CountLettersInString\obj\Debug\CountLettersInString.exe
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\StringDictionariesLambdaLINQ\CountLettersInString\obj\Debug\CountLettersInString.pdb

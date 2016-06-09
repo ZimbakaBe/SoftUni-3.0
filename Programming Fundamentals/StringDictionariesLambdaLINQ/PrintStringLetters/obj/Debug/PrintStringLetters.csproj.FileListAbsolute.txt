@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\StringDictionariesLambdaLINQ\PrintStringLetters\bin\Debug\PrintStringLetters.exe.config
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\StringDictionariesLambdaLINQ\PrintStringLetters\bin\Debug\PrintStringLetters.exe
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\StringDictionariesLambdaLINQ\PrintStringLetters\bin\Debug\PrintStringLetters.pdb
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\StringDictionariesLambdaLINQ\PrintStringLetters\obj\Debug\PrintStringLetters.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\StringDictionariesLambdaLINQ\PrintStringLetters\obj\Debug\PrintStringLetters.exe
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\StringDictionariesLambdaLINQ\PrintStringLetters\obj\Debug\PrintStringLetters.pdb
