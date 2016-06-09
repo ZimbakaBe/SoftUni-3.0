@@ -1,0 +1,5 @@
+C:\Users\Viktor\Desktop\DataTypesAndMethods\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+C:\Users\Viktor\Desktop\DataTypesAndMethods\DayOfWeek\bin\Debug\DayOfWeek.exe
+C:\Users\Viktor\Desktop\DataTypesAndMethods\DayOfWeek\bin\Debug\DayOfWeek.pdb
+C:\Users\Viktor\Desktop\DataTypesAndMethods\DayOfWeek\obj\Debug\DayOfWeek.exe
+C:\Users\Viktor\Desktop\DataTypesAndMethods\DayOfWeek\obj\Debug\DayOfWeek.pdb

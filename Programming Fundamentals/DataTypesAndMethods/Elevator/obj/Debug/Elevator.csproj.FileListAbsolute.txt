@@ -1,0 +1,5 @@
+C:\Users\Viktor\Desktop\DataTypesAndMethods\Elevator\bin\Debug\Elevator.exe.config
+C:\Users\Viktor\Desktop\DataTypesAndMethods\Elevator\bin\Debug\Elevator.exe
+C:\Users\Viktor\Desktop\DataTypesAndMethods\Elevator\bin\Debug\Elevator.pdb
+C:\Users\Viktor\Desktop\DataTypesAndMethods\Elevator\obj\Debug\Elevator.exe
+C:\Users\Viktor\Desktop\DataTypesAndMethods\Elevator\obj\Debug\Elevator.pdb

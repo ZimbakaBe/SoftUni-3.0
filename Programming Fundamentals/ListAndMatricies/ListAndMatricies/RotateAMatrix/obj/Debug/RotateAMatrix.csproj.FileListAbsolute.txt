@@ -1,0 +1,5 @@
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\RotateAMatrix\bin\Debug\RotateAMatrix.exe.config
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\RotateAMatrix\bin\Debug\RotateAMatrix.exe
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\RotateAMatrix\bin\Debug\RotateAMatrix.pdb
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\RotateAMatrix\obj\Debug\RotateAMatrix.exe
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\RotateAMatrix\obj\Debug\RotateAMatrix.pdb

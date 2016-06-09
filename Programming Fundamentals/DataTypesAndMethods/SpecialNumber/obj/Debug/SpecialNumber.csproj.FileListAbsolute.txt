@@ -1,0 +1,5 @@
+C:\Users\Viktor\Desktop\DataTypesAndMethods\SpecialNumber\bin\Debug\SpecialNumber.exe.config
+C:\Users\Viktor\Desktop\DataTypesAndMethods\SpecialNumber\bin\Debug\SpecialNumber.exe
+C:\Users\Viktor\Desktop\DataTypesAndMethods\SpecialNumber\bin\Debug\SpecialNumber.pdb
+C:\Users\Viktor\Desktop\DataTypesAndMethods\SpecialNumber\obj\Debug\SpecialNumber.exe
+C:\Users\Viktor\Desktop\DataTypesAndMethods\SpecialNumber\obj\Debug\SpecialNumber.pdb

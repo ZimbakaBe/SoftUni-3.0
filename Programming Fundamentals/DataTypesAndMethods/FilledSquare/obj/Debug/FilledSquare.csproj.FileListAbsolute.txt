@@ -1,0 +1,5 @@
+C:\Users\Viktor\Desktop\DataTypesAndMethods\FilledSquare\bin\Debug\FilledSquare.exe.config
+C:\Users\Viktor\Desktop\DataTypesAndMethods\FilledSquare\bin\Debug\FilledSquare.exe
+C:\Users\Viktor\Desktop\DataTypesAndMethods\FilledSquare\bin\Debug\FilledSquare.pdb
+C:\Users\Viktor\Desktop\DataTypesAndMethods\FilledSquare\obj\Debug\FilledSquare.exe
+C:\Users\Viktor\Desktop\DataTypesAndMethods\FilledSquare\obj\Debug\FilledSquare.pdb

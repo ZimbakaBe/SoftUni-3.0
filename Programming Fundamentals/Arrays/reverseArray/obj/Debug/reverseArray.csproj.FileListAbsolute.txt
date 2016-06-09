@@ -1,0 +1,5 @@
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\reverseArray\bin\Debug\reverseArray.exe.config
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\reverseArray\bin\Debug\reverseArray.exe
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\reverseArray\bin\Debug\reverseArray.pdb
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\reverseArray\obj\Debug\reverseArray.exe
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\reverseArray\obj\Debug\reverseArray.pdb

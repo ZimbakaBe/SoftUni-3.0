@@ -1,0 +1,6 @@
+C:\Users\Viktor\Desktop\DataTypesAndMethods\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe.config
+C:\Users\Viktor\Desktop\DataTypesAndMethods\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.exe
+C:\Users\Viktor\Desktop\DataTypesAndMethods\CenturiesToMinutes\bin\Debug\CenturiesToMinutes.pdb
+C:\Users\Viktor\Desktop\DataTypesAndMethods\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Desktop\DataTypesAndMethods\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.exe
+C:\Users\Viktor\Desktop\DataTypesAndMethods\CenturiesToMinutes\obj\Debug\CenturiesToMinutes.pdb

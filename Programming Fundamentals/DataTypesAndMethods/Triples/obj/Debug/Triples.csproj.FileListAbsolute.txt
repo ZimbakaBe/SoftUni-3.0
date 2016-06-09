@@ -1,0 +1,6 @@
+C:\Users\Viktor\Desktop\DataTypesAndMethods\Triples\bin\Debug\Triples.exe.config
+C:\Users\Viktor\Desktop\DataTypesAndMethods\Triples\bin\Debug\Triples.exe
+C:\Users\Viktor\Desktop\DataTypesAndMethods\Triples\bin\Debug\Triples.pdb
+C:\Users\Viktor\Desktop\DataTypesAndMethods\Triples\obj\Debug\Triples.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Desktop\DataTypesAndMethods\Triples\obj\Debug\Triples.exe
+C:\Users\Viktor\Desktop\DataTypesAndMethods\Triples\obj\Debug\Triples.pdb

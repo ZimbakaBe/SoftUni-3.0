@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\MatrixOfLetters\bin\Debug\MatrixOfLetters.exe.config
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\MatrixOfLetters\bin\Debug\MatrixOfLetters.exe
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\MatrixOfLetters\bin\Debug\MatrixOfLetters.pdb
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\MatrixOfLetters\obj\Debug\MatrixOfLetters.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\MatrixOfLetters\obj\Debug\MatrixOfLetters.exe
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\MatrixOfLetters\obj\Debug\MatrixOfLetters.pdb

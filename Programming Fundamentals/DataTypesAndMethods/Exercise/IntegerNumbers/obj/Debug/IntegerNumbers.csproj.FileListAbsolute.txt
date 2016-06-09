@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\DataTypesAndMethods\Exercise\IntegerNumbers\bin\Debug\IntegerNumbers.exe.config
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\DataTypesAndMethods\Exercise\IntegerNumbers\bin\Debug\IntegerNumbers.exe
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\DataTypesAndMethods\Exercise\IntegerNumbers\bin\Debug\IntegerNumbers.pdb
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\DataTypesAndMethods\Exercise\IntegerNumbers\obj\Debug\IntegerNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\DataTypesAndMethods\Exercise\IntegerNumbers\obj\Debug\IntegerNumbers.exe
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\DataTypesAndMethods\Exercise\IntegerNumbers\obj\Debug\IntegerNumbers.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\SortNumbers\bin\Debug\SortNumbers.exe.config
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\SortNumbers\bin\Debug\SortNumbers.exe
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\SortNumbers\bin\Debug\SortNumbers.pdb
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\SortNumbers\obj\Debug\SortNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\SortNumbers\obj\Debug\SortNumbers.exe
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\SortNumbers\obj\Debug\SortNumbers.pdb

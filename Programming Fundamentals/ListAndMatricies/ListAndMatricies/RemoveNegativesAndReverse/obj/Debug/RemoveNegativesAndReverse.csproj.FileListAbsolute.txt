@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\RemoveNegativesAndReverse\bin\Debug\RemoveNegativesAndReverse.exe.config
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\RemoveNegativesAndReverse\bin\Debug\RemoveNegativesAndReverse.exe
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\RemoveNegativesAndReverse\bin\Debug\RemoveNegativesAndReverse.pdb
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\RemoveNegativesAndReverse\obj\Debug\RemoveNegativesAndReverse.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\RemoveNegativesAndReverse\obj\Debug\RemoveNegativesAndReverse.exe
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\RemoveNegativesAndReverse\obj\Debug\RemoveNegativesAndReverse.pdb

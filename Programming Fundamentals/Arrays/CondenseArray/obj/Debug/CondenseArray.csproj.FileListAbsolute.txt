@@ -1,0 +1,5 @@
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\CondenseArray\bin\Debug\CondenseArray.exe.config
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\CondenseArray\bin\Debug\CondenseArray.exe
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\CondenseArray\bin\Debug\CondenseArray.pdb
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\CondenseArray\obj\Debug\CondenseArray.exe
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\CondenseArray\obj\Debug\CondenseArray.pdb

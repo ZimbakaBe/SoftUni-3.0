@@ -1,0 +1,5 @@
+C:\Users\Viktor\Desktop\DataTypesAndMethods\ExactSum\bin\Debug\ExactSum.exe.config
+C:\Users\Viktor\Desktop\DataTypesAndMethods\ExactSum\bin\Debug\ExactSum.exe
+C:\Users\Viktor\Desktop\DataTypesAndMethods\ExactSum\bin\Debug\ExactSum.pdb
+C:\Users\Viktor\Desktop\DataTypesAndMethods\ExactSum\obj\Debug\ExactSum.exe
+C:\Users\Viktor\Desktop\DataTypesAndMethods\ExactSum\obj\Debug\ExactSum.pdb

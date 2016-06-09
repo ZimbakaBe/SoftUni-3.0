@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\SumArrays\bin\Debug\SumArrays.exe.config
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\SumArrays\bin\Debug\SumArrays.exe
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\SumArrays\bin\Debug\SumArrays.pdb
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\SumArrays\obj\Debug\SumArrays.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\SumArrays\obj\Debug\SumArrays.exe
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\SumArrays\obj\Debug\SumArrays.pdb

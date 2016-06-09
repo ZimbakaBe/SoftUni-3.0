@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\TripleSum\bin\Debug\TripleSum.exe.config
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\TripleSum\bin\Debug\TripleSum.exe
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\TripleSum\bin\Debug\TripleSum.pdb
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\TripleSum\obj\Debug\TripleSum.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\TripleSum\obj\Debug\TripleSum.exe
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\TripleSum\obj\Debug\TripleSum.pdb

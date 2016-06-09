@@ -1,0 +1,5 @@
+C:\Users\Viktor\Desktop\DataTypesAndMethods\AnimalType\bin\Debug\AnimalType.exe.config
+C:\Users\Viktor\Desktop\DataTypesAndMethods\AnimalType\bin\Debug\AnimalType.exe
+C:\Users\Viktor\Desktop\DataTypesAndMethods\AnimalType\bin\Debug\AnimalType.pdb
+C:\Users\Viktor\Desktop\DataTypesAndMethods\AnimalType\obj\Debug\AnimalType.exe
+C:\Users\Viktor\Desktop\DataTypesAndMethods\AnimalType\obj\Debug\AnimalType.pdb

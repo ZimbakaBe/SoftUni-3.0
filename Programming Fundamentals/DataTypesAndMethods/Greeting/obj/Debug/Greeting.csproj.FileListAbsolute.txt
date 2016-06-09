@@ -1,0 +1,5 @@
+C:\Users\Viktor\Desktop\DataTypesAndMethods\Greeting\bin\Debug\Greeting.exe.config
+C:\Users\Viktor\Desktop\DataTypesAndMethods\Greeting\bin\Debug\Greeting.exe
+C:\Users\Viktor\Desktop\DataTypesAndMethods\Greeting\bin\Debug\Greeting.pdb
+C:\Users\Viktor\Desktop\DataTypesAndMethods\Greeting\obj\Debug\Greeting.exe
+C:\Users\Viktor\Desktop\DataTypesAndMethods\Greeting\obj\Debug\Greeting.pdb

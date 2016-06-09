@@ -1,0 +1,5 @@
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\ExtractMiddleElem\bin\Debug\ExtractMiddleElem.exe.config
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\ExtractMiddleElem\bin\Debug\ExtractMiddleElem.exe
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\ExtractMiddleElem\bin\Debug\ExtractMiddleElem.pdb
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\ExtractMiddleElem\obj\Debug\ExtractMiddleElem.exe
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\ExtractMiddleElem\obj\Debug\ExtractMiddleElem.pdb

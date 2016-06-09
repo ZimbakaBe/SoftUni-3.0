@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\lastKSumSeq\bin\Debug\lastKSumSeq.exe.config
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\lastKSumSeq\bin\Debug\lastKSumSeq.exe
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\lastKSumSeq\bin\Debug\lastKSumSeq.pdb
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\lastKSumSeq\obj\Debug\lastKSumSeq.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\lastKSumSeq\obj\Debug\lastKSumSeq.exe
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\Arrays\lastKSumSeq\obj\Debug\lastKSumSeq.pdb

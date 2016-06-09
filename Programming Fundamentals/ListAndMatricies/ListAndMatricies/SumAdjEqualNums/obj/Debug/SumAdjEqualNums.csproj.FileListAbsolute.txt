@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\SumAdjEqualNums\bin\Debug\SumAdjEqualNums.exe.config
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\SumAdjEqualNums\bin\Debug\SumAdjEqualNums.exe
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\SumAdjEqualNums\bin\Debug\SumAdjEqualNums.pdb
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\SumAdjEqualNums\obj\Debug\SumAdjEqualNums.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\SumAdjEqualNums\obj\Debug\SumAdjEqualNums.exe
+D:\SoftUni\SoftUni 3.0\Programming Fundamentals\ListAndMatricies\ListAndMatricies\SumAdjEqualNums\obj\Debug\SumAdjEqualNums.pdb
