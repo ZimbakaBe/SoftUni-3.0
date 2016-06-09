@@ -1,0 +1,5 @@
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\StringDictionariesLambdaLINQ\LargestThreeNumbers\bin\Debug\LargestThreeNumbers.exe.config
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\StringDictionariesLambdaLINQ\LargestThreeNumbers\bin\Debug\LargestThreeNumbers.exe
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\StringDictionariesLambdaLINQ\LargestThreeNumbers\bin\Debug\LargestThreeNumbers.pdb
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\StringDictionariesLambdaLINQ\LargestThreeNumbers\obj\Debug\LargestThreeNumbers.exe
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\StringDictionariesLambdaLINQ\LargestThreeNumbers\obj\Debug\LargestThreeNumbers.pdb
