@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ExamPreparationPart1\ArrayModifier\bin\Debug\ArrayModifier.exe.config
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ExamPreparationPart1\ArrayModifier\bin\Debug\ArrayModifier.exe
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ExamPreparationPart1\ArrayModifier\bin\Debug\ArrayModifier.pdb
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ExamPreparationPart1\ArrayModifier\obj\Debug\ArrayModifier.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ExamPreparationPart1\ArrayModifier\obj\Debug\ArrayModifier.exe
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ExamPreparationPart1\ArrayModifier\obj\Debug\ArrayModifier.pdb

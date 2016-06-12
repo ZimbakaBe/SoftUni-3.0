@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ExamPreparationPart1\SweetDesert\bin\Debug\SweetDesert.exe.config
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ExamPreparationPart1\SweetDesert\bin\Debug\SweetDesert.exe
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ExamPreparationPart1\SweetDesert\bin\Debug\SweetDesert.pdb
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ExamPreparationPart1\SweetDesert\obj\Debug\SweetDesert.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ExamPreparationPart1\SweetDesert\obj\Debug\SweetDesert.exe
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ExamPreparationPart1\SweetDesert\obj\Debug\SweetDesert.pdb

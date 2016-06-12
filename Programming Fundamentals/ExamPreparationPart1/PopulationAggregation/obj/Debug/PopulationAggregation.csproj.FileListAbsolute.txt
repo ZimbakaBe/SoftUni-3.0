@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ExamPreparationPart1\PopulationAggregation\bin\Debug\PopulationAggregation.exe.config
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ExamPreparationPart1\PopulationAggregation\bin\Debug\PopulationAggregation.exe
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ExamPreparationPart1\PopulationAggregation\bin\Debug\PopulationAggregation.pdb
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ExamPreparationPart1\PopulationAggregation\obj\Debug\PopulationAggregation.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ExamPreparationPart1\PopulationAggregation\obj\Debug\PopulationAggregation.exe
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ExamPreparationPart1\PopulationAggregation\obj\Debug\PopulationAggregation.pdb
