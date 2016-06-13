@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ProgrammingFundamentalsExamJune2016\FootbalStandings\bin\Debug\FootbalStandings.exe.config
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ProgrammingFundamentalsExamJune2016\FootbalStandings\bin\Debug\FootbalStandings.exe
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ProgrammingFundamentalsExamJune2016\FootbalStandings\bin\Debug\FootbalStandings.pdb
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ProgrammingFundamentalsExamJune2016\FootbalStandings\obj\Debug\FootbalStandings.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ProgrammingFundamentalsExamJune2016\FootbalStandings\obj\Debug\FootbalStandings.exe
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ProgrammingFundamentalsExamJune2016\FootbalStandings\obj\Debug\FootbalStandings.pdb

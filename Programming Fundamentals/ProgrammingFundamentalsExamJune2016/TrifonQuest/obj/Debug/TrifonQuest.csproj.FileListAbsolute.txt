@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ProgrammingFundamentalsExamJune2016\TrifonQuest\bin\Debug\TrifonQuest.exe.config
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ProgrammingFundamentalsExamJune2016\TrifonQuest\bin\Debug\TrifonQuest.exe
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ProgrammingFundamentalsExamJune2016\TrifonQuest\bin\Debug\TrifonQuest.pdb
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ProgrammingFundamentalsExamJune2016\TrifonQuest\obj\Debug\TrifonQuest.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ProgrammingFundamentalsExamJune2016\TrifonQuest\obj\Debug\TrifonQuest.exe
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ProgrammingFundamentalsExamJune2016\TrifonQuest\obj\Debug\TrifonQuest.pdb

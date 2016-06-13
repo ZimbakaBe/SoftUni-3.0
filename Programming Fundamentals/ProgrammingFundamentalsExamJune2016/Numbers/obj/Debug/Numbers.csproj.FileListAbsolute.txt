@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ProgrammingFundamentalsExamJune2016\Numbers\bin\Debug\Numbers.exe.config
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ProgrammingFundamentalsExamJune2016\Numbers\bin\Debug\Numbers.exe
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ProgrammingFundamentalsExamJune2016\Numbers\bin\Debug\Numbers.pdb
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ProgrammingFundamentalsExamJune2016\Numbers\obj\Debug\Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ProgrammingFundamentalsExamJune2016\Numbers\obj\Debug\Numbers.exe
+D:\SoftUni\SoftUni-3.0\Programming Fundamentals\ProgrammingFundamentalsExamJune2016\Numbers\obj\Debug\Numbers.pdb
