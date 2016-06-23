@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>List of items</title>
+</head>
+<body>
+    <ul id="list">
+        <li>First</li>
+        <li>Second</li>
+    </ul>
+    <input id="textValue" type="text">
+    <button id="addButton" onclick="add()">Add</button>
+<script>
+    function add() {
+        var value = document.getElementById('textValue').value;
+        var li = document.createElement('li');
+        li.appendChild(document.createTextNode(value));
+        document.getElementById('list').appendChild(li);
+    }
+</script>
+</body>
+</html>

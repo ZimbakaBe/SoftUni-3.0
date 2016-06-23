@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Show more text</title>
+</head>
+<body>
+    <div>Some text</div>
+    <a href="#" id="more" onclick="showMoreText()">Show more text</a>
+    <span id="text" style="display: none">More Text</span>
+    <script>
+        function showMoreText() {
+            document.getElementById('text')
+                    .style.display = 'inline';
+            document.getElementById('more')
+                    .style.display = 'none';
+        }
+    </script>
+</body>
+</html>
