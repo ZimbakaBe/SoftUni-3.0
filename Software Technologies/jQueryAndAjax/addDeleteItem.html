@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
+    <meta charset="UTF-8">
+    <title>Add or Delete</title>
+</head>
+<body>
+    <style>
+        li a {
+            display: none;
+        }
+        li:hover a {
+            display: inline;
+        }
+    </style>
+    <h1>List of Items</h1>
+    <ul id="list">
+        <li>First <a href="#" class="deleteItem" onclick="deleteItem(this)">Delete</a></li>
+        <li>Second <a href="#" class="deleteItem" onclick="deleteItem(this)">Delete</a></li>
+    </ul>
+    <input id="textToAdd" type="text"><button id="addItem">Add</button>
+    <script>
+        $('#addItem').click(function() {
+            var li = $('<li>');
+            var textToAppend = $('#textToAdd').val();
+            var deleteLink = $('<a href="#" class="deleteItem" onclick="deleteItem(this)">Delete</a>');
+            li.append(textToAppend + ' ');
+            li.append(deleteLink);
+            $('#list').append(li);
+        });
+
+        function deleteItem(link) {
+            $(link).parent().remove();
+        }
+    </script>
+</body>
+</html>

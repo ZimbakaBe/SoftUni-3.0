@@ -1,0 +1,19 @@
+.header-page {
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(197,237,252);
+    height: 50px;
+    border-radius: 4px;
+    /*width: 59%;*/
+}
+
+.header-page-link:nth-last-child(n+2) {
+    margin-right: 50px;
+}
+
+.wrapper {
+    border: 2px solid rgb(248,130,22);
+    border-radius: 4px;
+    background-color: rgb(207,245,156);
+    height: 317px;
+}

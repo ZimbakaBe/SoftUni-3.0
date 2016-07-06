@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
+    <meta charset="UTF-8">
+    <title>Countries</title>
+</head>
+<body>
+    <style>
+        table > tbody > tr:last-child > td:last-child > .move-down{
+            display: none;
+        }
+
+        table > tbody > tr:nth-child(2) > td:last-child > .move-up{
+            display: none;
+        }
+    </style>
+    <table id="countries">
+        <tr>
+            <th>Country</th>
+            <th>Capital</th>
+            <th>Action</th>
+        </tr>
+        <tr>
+            <td>Bulgaria</td>
+            <td>Sofia</td>
+            <td><a class="move-up" href="#">[Up]</a>
+                <a class="move-down" href="#">[Down]</a>
+                <a href="#" onclick="deleteRow(this)">[Delete]</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Germany</td>
+            <td>Berlin</td>
+            <td><a class="move-up" href="#">[Up]</a>
+                <a class="move-down" href="#"">[Down]</a>
+                <a href="#" onclick="deleteRow(this)">[Delete]</a>
+            </td>
+        </tr>
+    </table>
+        <h2>Add new country</h2>
+        <div>Country: <input id="country" type="text"></div>
+        <div>Capital: <input id="capital" type="text"><button id="add">Add</button></div>
+
+    <script>
+        $('#add').click(function() {
+            var country = $('#country').val();
+            var capital = $('#capital').val();
+            var actions = $('<td>' +
+                                '<a class="move-up" href="#" onclick="up()">[Up]</a>' +
+                                '<a class="move-down" href="#" onclick="down()">[Down]</a>' +
+                                '<a href="#" onclick="deleteRow(this)">[Delete]</a>' +
+                            '</td>');
+            var tr = $('<tr>' +
+                            '<td>' + country + '</td>' +
+                            '<td>' + capital + '</td>' +
+                       '</tr>');
+            tr.append(actions);
+
+            $('table > tbody:last').append(tr);
+        });
+
+        $('table').on('click', '.move-up', function() {
+            var thisRow = $(this).closest('tr');
+            var prevRow = thisRow.prev();
+            if(prevRow.length) {
+                thisRow.fadeOut(function() {
+                    prevRow.before(thisRow);
+                    thisRow.fadeIn()
+                });
+            }
+        });
+
+        $('table').on('click', '.move-down', function() {
+            var thisRow = $(this).closest('tr');
+            var nextRow = thisRow.next();
+            if(nextRow.length) {
+                thisRow.fadeOut(function() {
+                    nextRow.after(thisRow);
+                    thisRow.fadeIn();
+                });
+            }
+        });
+
+        function deleteRow(link) {
+            var row = $(link).parent().parent();
+            row.fadeOut(function() {
+                row.remove();
+            })
+        }
+
+    </script>
+</body>
+</html>

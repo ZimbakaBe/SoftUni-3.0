@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
+    <meta charset="UTF-8">
+    <title>New Town</title>
+</head>
+<body>
+<div>Country: <input id="country" type="text"></div>
+<div>Title: <input id="town" type="text"></div>
+<button id="createNewPost">Create New Post</button></br>
+
+<script>
+    $('#createNewPost').click(function() {
+        var USERNAME = 'kid_BkgBNW78', PASSWORD = 'fbcfe0a8b99e46c8b309d1b79916980c';
+        var authorization = btoa(USERNAME + ':' + PASSWORD);
+        var inputData = {
+            username: $('#country').val(),
+            password: $('#town').val()
+        };
+
+        $.ajax({
+            method: 'POST',
+            url: 'https://baas.kinvey.com/user/kid_BkgBNW78/',
+            headers: {'Authorization' : 'Basic ' + authorization},
+            data: JSON.stringify(inputData),
+            contentType: 'application/json',
+            success: function(data, status) {
+                var newData = JSON.stringify(data);
+                $('body').append('Created post: ' + newData);
+            },
+            error: function(data, status) {
+
+            }
+        })
+    })
+</script>
+</body>
+</html>
