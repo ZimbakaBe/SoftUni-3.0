@@ -1,0 +1,162 @@
+/* app css stylesheet */
+#changeStatus{
+  color: rgb(255,255,255);
+  background-color: rgb(82,178,81);
+  padding: 0.5%;
+  border-radius: 4px;
+  border: none;
+}
+
+#changeStatus:hover {
+  position: relative;
+  width: 60px;
+}
+
+.issueInfoDyn {
+  /*width: 300px;*/
+  /*float: left;*/
+}
+
+.issueInfo {
+  font-weight: bold;
+}
+
+#issueInformation > div:first-of-type > a {
+  position: relative;
+  text-align: center;
+  bottom: 30px;
+  left: 90px;
+  color: rgb(255,255,255);
+  background-color: rgb(82,178,81);
+  padding: 0.5%;
+  border-radius: 4px;
+}
+
+.assignesIssuesTable > table {
+  white-space: nowrap;
+}
+
+.assignedIssues td {
+  border-top: 1px solid rgb(221,221,221);
+  padding: 10px;
+}
+
+.pageHeader {
+  background-color: rgb(206,232,245);
+  color: rgb(143,200,227);
+  margin-top: 7px;
+  margin-bottom: 5px;
+  height: 40px;
+  text-align: justify;
+  border-radius: 4px;
+}
+
+#issuePageHeader > div {
+  position: relative;
+  left: 10px;
+  top: 10px;
+}
+
+.issuePage > a {
+  background-color: rgb(82,178,81);
+  color: rgb(246,255,255);
+  padding: 1%;
+  border-radius: 4px;
+}
+
+.dashboard > a {
+  background-color: rgb(82,178,81);
+  color: rgb(246,255,255);
+  padding: 1%;
+  border-radius: 4px;
+}
+
+.scroll {
+  overflow: scroll;
+}
+
+.Projects {
+  font-weight: bold;
+}
+
+#projectPageHeader {
+  background-color: rgb(206,232,245);
+  color: rgb(143,200,227);
+  margin-top: 7px;
+  margin-bottom: 5px;
+  height: 40px;
+  text-align: justify;
+  border-radius: 4px;
+}
+
+#projectPageHeader > div {
+  position: relative;
+  left: 10px;
+  top: 10px;
+}
+
+.projectPage > a {
+  background-color: rgb(82,178,81);
+  color: rgb(246,255,255);
+  padding: 1%;
+  border-radius: 4px;
+}
+
+.projectPage table {
+  white-space: nowrap;
+  /*width: 40%;*/
+}
+
+.projectPage td {
+  border-top: 1px solid rgb(221,221,221);
+  padding: 10px;
+}
+
+.projectInfo{
+  background-color: rgb(47,175,212);
+  color: white;
+  border-radius: 4px;
+  border: none;
+}
+
+.background {
+  background-color: rgb(70,161,68);
+}
+
+.menu {
+  list-style: none;
+  border-bottom: 0.1em solid black;
+  margin-bottom: 2em;
+  padding: 0 0 0.5em;
+}
+
+.border {
+  border: 1px solid rgb(66,133,244);
+  padding: 10px;
+}
+
+.margin-bottom-100 {
+  margin-bottom: 100px;
+}
+
+.menu:before {
+  content: "[";
+}
+
+.menu:after {
+  content: "]";
+}
+
+.menu > li {
+  display: inline;
+}
+
+.menu > li:before {
+  content: "|";
+  padding-right: 0.3em;
+}
+
+.menu > li:nth-child(1):before {
+  content: "";
+  padding: 0;
+}
